@@ -1,0 +1,54 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.dd73a0e8cad2e62f29e93522af9788e0.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon_1024x1024.dd73a0e8cad2e62f29e93522af9788e0.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.2c4daa8b4fb9c5a964cc12dc8f7ecbb6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.12ecf1fb856140a21de77b68ddf7cbab.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.523e9f8e53b52f41e076a22e2cf435fc.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.8e513d20cd84b09be53dae3b75aa3e2d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.99904fca5a3c3a26593180b0a2a135d3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.e1fdf4146bcafad6d7e3f6122bbacaf2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Info Bola Premier League",
+  "short_name": "IBPL",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "description": "Aplikasi website yang memberikan info Premier League",
+  "background_color": "#ff6f00",
+  "theme_color": "white",
+  "gcm_sender_id": "240018584282"
+}
